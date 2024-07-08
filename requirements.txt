@@ -1,6 +1,5 @@
 pandas
 plotly
 streamlit
-yfinance
-pandas-datareader
-prophet
+streamlit_authenticator==0.1.5
+pathlib
