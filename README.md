@@ -1,5 +1,6 @@
 # GTL-Loaction-suggestion-NLM-BLR-Auth
 
+**APP link:** https://gtl-location-suggestion-app-nsee5jgsnyvjvpebfpqeje.streamlit.app/ 
 
 # ABOUT APP
 This app is used to streamline Iventory Management operations especailly the activity called "GTL Movement"
